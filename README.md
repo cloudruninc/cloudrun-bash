@@ -23,4 +23,4 @@ You'll need to set two environment variables:
 * `CLOUDRUN_API_USER_ID`: Your unique user ID.
 * `CLOUDRUN_API_USER_TOKEN`: Your API access token.
 
-Email us at help@cloudrun.co if you'd like to use the Cloudrun API.
+Email us at help@cloudrun.co about obtaining you Cloudrun API token.
