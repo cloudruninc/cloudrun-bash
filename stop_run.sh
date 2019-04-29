@@ -2,7 +2,7 @@
 #
 # Stops an active run.
 
-if [ $# -lt 2 ]; then
+if [ $# -lt 1 ]; then
     echo "Usage: ./stop_run.sh <run-id>"
     exit 1
 fi
