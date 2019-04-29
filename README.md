@@ -14,7 +14,7 @@ git clone https://github.com/cloudruninc/cloudrun-bash
 
 * bash
 * curl
-* Python 3.x
+* Python 3.x (for batch downloading files)
 
 ### Set the environment variables
 
